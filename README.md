@@ -1,5 +1,5 @@
 <h1> ProjetoAplicado1</h1>
-<p>Repositorio referente a entrega da atividade de projeto aplicado 1 - Mackenzie 2023.<p/>
+<p>Repositorio referente a entrega da atividade de projeto aplicado 1 - Mackenzie 2023 1° Semestre.<p/>
 <br>
 <h3>Membros:</h3>
 <p>ALLAN MARCONDES DE OLIVEIRA - TIA: 22010580</p>
